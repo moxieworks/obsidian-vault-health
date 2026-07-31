@@ -1,0 +1,11 @@
+{
+  "extends": "./tsconfig.json",
+  "compilerOptions": {
+    "module": "CommonJS",
+    "isolatedModules": false,
+    "paths": {
+      "obsidian": ["./__mocks__/obsidian.ts"]
+    }
+  },
+  "include": ["src/**/*.ts", "__mocks__/**/*.ts"]
+}
