@@ -1,7 +1,7 @@
 {
   "id": "obsidian-vault-health",
   "name": "Vault Health Reporter",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "minAppVersion": "1.4.0",
   "description": "Sidebar panel showing orphaned notes, broken links, dead-end stubs, and link density per folder.",
   "author": "moxieworks",
